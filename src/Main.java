@@ -11,7 +11,7 @@ public class Main {
         list.addNode(new Node("W"));
 
         list.print();
-        list.delete("Z");
+        list.delete("P");
         System.out.println("**********");
         list.print();
 
