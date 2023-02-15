@@ -3,6 +3,9 @@ public class Node {
     private String name;
     private Node next;
     private Node previous;
+    
+    public static alpha(){
+    }
 
     public Node(String name) {
         this.name = name;
